@@ -1,0 +1,47 @@
+
+
+#contenedor{width: 90%;  border: 3px solid #99ffff; margin-right: auto; margin-left: auto;}
+#encabezado {width: 100%; height: 100px; background-color: #b3ffb3; color:#4db8ff; font-family:Algerian; text-align: center; font-size: 80px; font-style: "Cooper Black";}
+#cuerpo {width: 100%;height:100% ; background-color: #ccebff; color: #008060;} 
+#pie {width: 100%; height: 50px; background-color:#39ac73; color: #00004d; clear: both; text-align: center; font-style: "Cooper Black";}
+#nav {width: 100%; height: 50px; background-color: #70db70; color:#33cc33; font-size: 20px;} 
+
+
+.superior {float: left; width: 100%; height: 55px; background-color: #99ccff; color: #00264d; text-align: center; font-size: 25px}
+.slider{height: 500px; width: 100%; background-image: url(principal.png);}  
+.inferior{width: 24.76%; height: 200px; background-color: #70db70; color: #ffffff; float: left;}
+.inferiorp{width: 33%; height: 400px; background-color: #70db70; color: #ffffff; float: left;}
+.inferiorpi{width: 50%; height: 220px; background-color: #70db70; color: #ffffff; float: left; font-size:25px}
+.inferiori{width: 33%; height: 200px; background-color: #70db70; color: #ffffff; float: left;}
+.inferiorpe{width: 33%; height: 20px; background-color: #70db70; color: black; float: left; text-align: center;font-family: "Bookman Old Style"}
+.inferiorpet{width: 24.76%; height: 20px; background-color: #ffb3ff; color: black; border: 2px solid purple; float: left; text-align: center; font-family: "Bookman Old Style"}
+.desc{width: 33%; height: 20px; background-color: #ffb3ff; color: black; border: 2px solid purple;text-align: center;}
+img{width: 100%; height: 100%; }
+/* unvisited link */
+a:link {color:  #ff3399;}
+
+/* visited link */
+a:visited {color:   #ff3399;}
+
+/* mouse over link */
+a:hover {color:  #33ccff;}
+
+/* selected link */
+a:active {color:  #ccb3ff;}
+.p{float: left; width: 50%; height: 500px;}
+.form{margin-right: : auto;color: black;}
+		table {border: 3px solid; margin-left: auto; margin-right: auto;border-radius: 8px; width: 450px; background-color: skyblue; font-family: Century}
+		label {font-family: Century}
+        th {font-size: 25px;}
+        input { background-color: #b3d9ff;border: 2px solid#b566ff;border-radius:10px;box-shadow: 2px 2px 5px #999; font-family: Century; font-size: 15px}
+        input[type=submit] {border: 2px solid#00cc00;border-radius:10px;box-shadow: 2px 2px 5px #999;font-size: 15px; font-family:Century; color: black; background-color: #b3ffb3}
+        select { background-color:#e6ccff;border: 2px solid#b566ff;border-radius:10px;box-shadow: 2px 2px 5px #999; font-family: Century}
+
+
+        .i{width: 300px height: 200px; border:2px; float: left;}
+        .pla{width:600px; height:200px;  }
+
+        a:link{text-decoration: none;  font-size: 20px}
+	a:link, a:visited {background-color: #99ff99;color: white;padding: 10px 25px;text-align: center;text-decoration: none;display: inline-block;}
+	a:hover, a:active {background-color: #66ff66;}
+	h1{font-family:Algerian;color:#377567;  font-size: 100px; text-align: center;}
